@@ -1,2 +1,0 @@
-# Basic-Portfolio
-Homework Assignment
